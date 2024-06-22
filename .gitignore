@@ -1,3 +1,8 @@
 /target
 .shuttle-storage
 Secrets*.toml
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
